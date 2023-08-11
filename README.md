@@ -1,7 +1,5 @@
 ### Hi there 👋
-Mi nombre es Javier Torales y soy desarrollador fullstack. Actualmente estoy finalizando mi curso de desarrollo web fullstack en Apx y estoy por comenzar mi segundo año en la tecnicatura en sistemas en la UTN.
-Las técnologias que manejo son Node.js , Typescript y express. Las bases de datos son mysql, posgrestql con secualize y el servicio de firebase.
-Para agregar tambien manejo lo basico en frontend con React y next.js por lo que se desarrollar un sitio web de punta a punta.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/javitorales/) 
